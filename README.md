@@ -1,7 +1,7 @@
 # Keras Documentation
 
-The source for Keras documentation is in this directory under `sources/`. 
-Our documentation uses extended Markdown, as implemented by [MkDocs](http://mkdocs.org).
+This is the repository for the translated `.md` sources files of [keras.io](http://keras.io/). The translation project.
+
 
 ## Building the documentation
 
