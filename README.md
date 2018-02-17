@@ -3,7 +3,7 @@
 This is the repository for the translated `.md` sources files of [keras.io](http://keras.io/). The translation project.
 ---
 
-# Keras documentationの日本語訳化
+# Keras documentation 한국어 번역
 
 
 ## 번역 가이드 라인
